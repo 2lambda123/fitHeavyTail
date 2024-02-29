@@ -1,0 +1,175 @@
+repo_name: 2lambda123/fitHeavyTail
+report_id: 85bf9164366bc24ba602ff78e13eedf4
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:52+00:00'
+requested_by: dppalomar
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-09-23 07:29:58.000000000 Z
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail
+  detection_source: Repo Metadata
+- name: ggplot2
+  description: A data visualization package for the statistical programming language
+    R
+  website_url: https://ggplot2.tidyverse.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/6560/New_Project__90_.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dppalomar
+  last_updated_on: 2023-05-01 06:51:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail
+  detection_source: Repo Metadata
+- name: ICSNP
+  description: Tools for Multivariate Nonparametrics
+  package_url: https://cran.r-project.org/ICSNP
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-09-23 07:19:33.000000000 Z
+- name: R.rsp
+  description: Dynamic Generation of Scientific Reports
+  package_url: https://cran.r-project.org/R.rsp
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-09-23 07:29:58.000000000 Z
+- name: ggplot2
+  description: Create Elegant Data Visualisations Using the Grammar of Graphics
+  package_url: https://cran.r-project.org/ggplot2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dppalomar
+  last_updated_on: 2023-05-01 06:51:40.000000000 Z
+- name: ghyp
+  description: Generalized Hyperbolic Distribution and Its Special Cases
+  package_url: https://cran.r-project.org/ghyp
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Rui ZHOU
+  last_updated_on: 2021-03-01 08:01:58.000000000 Z
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: dppalomar
+  last_updated_on: 2023-05-01 06:51:40.000000000 Z
+- name: mvtnorm
+  description: Multivariate Normal and t Distributions
+  package_url: https://cran.r-project.org/mvtnorm
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-09-23 07:19:33.000000000 Z
+- name: numDeriv
+  description: Accurate Numerical Derivatives
+  package_url: https://cran.r-project.org/numDeriv
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Rui ZHOU
+  last_updated_on: 2021-03-01 08:01:58.000000000 Z
+- name: reshape2
+  description: 'Flexibly Reshape Data: A Reboot of the Reshape Package'
+  package_url: https://cran.r-project.org/reshape2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-11-16 01:12:32.000000000 Z
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2019-09-23 07:29:58.000000000 Z
+- name: testthat
+  description: Unit Testing for R
+  package_url: https://cran.r-project.org/testthat
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/fitHeavyTail/blob/master/DESCRIPTION
+  detection_source: DESCRIPTION
+  last_updated_by: Daniel P. Palomar
+  last_updated_on: 2022-04-16 07:03:27.000000000 Z
